@@ -1,0 +1,53 @@
+.HolidaySnapshot{
+    /* Layout Properties */
+
+    width: 635px;
+    height: 352px;
+    background: #FFFFFF 0% 0% no-repeat padding-box !important;
+    box-shadow: 1px 2px 10px #00000014 !important;
+    border-radius: 8px !important;
+}
+
+.Title{
+    text-align: left;
+    font-size:  22px !important;
+    line-height: 24px;
+    font-weight: 600 !important;
+    letter-spacing: 0px !important;
+    padding: 0 0 10px 15px;
+
+}
+.Label{
+    font-size: 13px;
+    letter-spacing: 0px;
+    font-weight: 600 !important;
+    line-height: 20px;
+}
+.Number{
+    text-align: left;
+    font-size: 22px;
+    letter-spacing: 0px;
+    font-weight: 600 !important;
+    line-height: 24px;
+}
+
+.Button{
+    border: 2px solid #20C5A0 !important;
+    border-radius: 30px !important;
+    font-size: 13px !important;
+    letter-spacing: 0px;
+    font-weight: 600 !important;
+    line-height: 30px;
+    height: 50px;
+    padding: 0 30px !important;
+
+    transition: transform 0.2s !important;
+}
+
+.Button2{
+    color: #FFFFFF !important;
+}
+
+.Button:hover{
+    transform: translateY(-5px) !important;
+}
